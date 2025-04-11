@@ -23,3 +23,9 @@ A smart and stylish web application that helps users plan scenic road trips by s
 
 Road-Trip-Planner/ ├── public/ │ └── extra/ │ └── pexels-veeterzy-39811.jpg ├── src/ │ ├── components/ │ │ ├── PlaceFilters.js │ │ ├── PlaceList.js │ │ ├── PlacesPanel.js │ │ ├── PlaceFilters.css │ │ ├── PlaceList.css │ │ └── PlacesPanel.css │ ├── App.js │ ├── App.css │ ├── MapComponent.js │ ├── PlacesAlongRoute.js │ ├── PlacesComponent.js │ └── index.js ├── .gitignore ├── package.json ├── package-lock.json └── webpack.config.js
 
+
+## 👥 Team
+
+- Avinash Singh - [@Abhiefab](https://github.com/Abhiefab)
+- Vipasana Kumari - [@Vipasana-kumari(https://github.com/Vipasana-kumari)
+
