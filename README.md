@@ -27,5 +27,5 @@ Road-Trip-Planner/ ├── public/ │ └── extra/ │ └── pexels-v
 ## 👥 Team
 
 - Avinash Singh - [@Abhiefab](https://github.com/Abhiefab)
-- Vipasana Kumari - [@Vipasana-kumari(https://github.com/Vipasana-kumari)
+- Vipasana Kumari - [@Vipasana-kumari](https://github.com/Vipasana-kumari)
 
