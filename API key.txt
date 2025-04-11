@@ -1,0 +1,17 @@
+5b3ce3597851110001cf62485e9289f00c17404fbc22bb019972467a
+
+
+2e97a0981ed44b0cacb3cece8893f8a1
+
+
+HwIlMng19omDCsOkmtNUQNpXBU8w3Ks8yFdx9CNh1tRT7Pz4lCGikoBc
+
+
+cd "C:\Users\avina\Documents\Ai Project\RoadTrip"
+npm start
+
+
+
+CMD:=
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"; npm start
